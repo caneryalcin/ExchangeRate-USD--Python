@@ -13,7 +13,7 @@ request = allows you to send HTTP request
 
 json = is text, written with JavaScript object notation and a syntax for storing and exchanging data.
 
-smtplib = defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener daemon.
+smtplib = defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener            daemon.
 
 url = "https://api.exchangeratesapi.io/latest"
 

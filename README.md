@@ -4,8 +4,8 @@ This project aims to see one specific element of exchange rates(USD) based EUR a
 
 Add those libraries:
 
-import requests
-import json
+import requests\n
+import json\n
 import smtplib
 import time
 

@@ -10,7 +10,7 @@ import smtplib
 import time
 ```
 
-request = allows you to send HTTP request
+request = allows you to send HTTP request.
 
 json = is text, written with JavaScript object notation and a syntax for storing and exchanging data.
 
